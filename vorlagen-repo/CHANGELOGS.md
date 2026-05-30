@@ -15,7 +15,7 @@ YYYY-MM-dd	**Version:** 0.0 <autor@mail.com>
 
 2026-05-29 | **Version:** v1.0 <autor@mail.com>
 
- * [Changeloghistorie](CHANGELOGS.md) hinzugefügt
+ * [Changeloghistorie](vorlagen-repo/CHANGELOGS.md/) hinzugefügt
 
 
 
