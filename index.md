@@ -1,53 +1,55 @@
 # README
 
-## Hallo allerseits 👋
+## Hallo allerseits, Willkommen auf meinem Blog! 🖐️ 
 ---
 
-**flinkSFlenomenomm/** 
 > [!NOTE]
 >
 > **Hier findest du Infos über:**
-> * das Projekt: 
-> * den Autor:
+> * 🔢 das Projekt: - [Persönliche Webseite](https://www.flinkSFlenomenomm.github.io/)
+> * 🧔 den Autor: - [Persönliches Profil](https://www.github.com/flinkSFlenomenomm/)
 >
-> *  Vorlage Dateien zum Kopieren und Weiter verwenden
-> *  Dokumentationen zur Nutzung von GitHub für Einsteiger
-> *  Meine Lieblings Projekte in Form einer 💯 HITLISTE
+> *  ***Vorlage Dateien zum Kopieren und Weiter verwenden***
+> *  ***Dokumentationen zur Nutzung von GitHub für Einsteiger***
+> *  ***Meine Lieblings Projekte in Form einer 💯 HITLISTE***
 > *
-> *  Möglichkeiten mit mir in Kontakt zu treten oder mich an der Entwicklung meiner ersten Projekte mit GitHub, durch Anregungen, Kritik oder Entwicklungsarbeit zu Unterstützen.
-Hier sind ein paar Ideen mit den wir starten können:
+> *  ***Möglichkeiten mit mir in Kontakt zu treten oder mich an der Entwicklung meiner ersten Projekte mit GitHub, durch Anregungen, Kritik oder Entwicklungsarbeit zu Unterstützen.***
 
-- 🔭 Ich arbeite gerade an ...
-- 🌱 Ich lerne gerade Einsteiger-Code&Script-bearbeitung in Markdown,  XML, HTML, JSON, PHP, JAVA und PYTHON
-- 👯 Ich möchte gerne Open source projekte erstellen und Unterstützen ...
-- 🤔 Ich brauche Hilfe mit ...
-- 💬 Fragt mich etwas ...
+- 👷 _***Ich arbeite gerade an*** der Erstellung einer GitHub Skills Startseite für mein Profil_
+- :fi _***Ich lerne gerade Code & Script - Bearbeitung*** für Einsteiger in Markdown,  XML, HTML, PHP, JAVA und PYTHON_
+- ➕ _***Ich möchte gerne Open source projekte erstellen und Unterstützen ...***_
+- ❔ _***Ich brauche Hilfe mit*** der Erstellung von Lizenzen, sowie dem Aktivieren von Erweiterungen (Gradle, Maven, Python, APACHE2, Java, ...)_
+- 🪢 _***Vorerfahrung habe ich mit der Benutzung & Administration Von Linux Systemen unter Debian (Raspbian, Kali Linux, ParrotOS) unter Verwendung der Grafischen Desktopumgebungen (XFCE, LXDE, LXQT, MATE GNOME)_
+- :accessibility:  _***Ich brauche Hilfe mit***- der Übersetzung von Dokumentationen (GitHub, Raspberry Pi, Apache2, ...)
 
-- 📫 Wie könnt ihr mich erreichen: 
-- 😄 Pronomen: Ich Du ER Sie Es und alle dazwischen und Außerhalb  ...
-- ⚡ Lustige Fakten: ...
+- ❓ _***Fragt mich etwas*** ..._
 
-# Hallo allerseits, Ich bin Flo Botrich! 👋
+- 📫 _***Wie könnt ihr mich erreichen:*** <span class="mail">flinks@tutamail.com</span>_  
+- 😄 _***Pronomen:*** Ich Du ER Sie Es und Alle Dazwischen und Außerhalb  ..._
+- ⚡ _***Lustige Fakten:*** ..._
 
-Willkommen auf meinem GitHub Profil! Ich bin passionierter Linux-Benutzerund möchte gerne Code entwickeln lernen. Außerdem mag ich coden&scripten erlernen, und teile gern mein Wissen mit der Gemeinschaft. Weiter Unten findest du mehr Informationen Über Mich und Meine Projekte.
+# Hallo allerseits, Ich bin [flinkSFlenomenomm](https://www.github.com/flinkSFlenomenomm/)! 👋
+
+_***Willkommen auf meinem [GitHub Profil](https://www.github.com/flinkSFlenomenomm/)!***_ Ich bin begeiterter Linux & OpenSource Benutzer und möchte gerne meh darüber Lernen. Meine Fähigkeiten im Coden & Skripten sowie das verstehen & Übersetzen vom Englischen 🏴󠁧󠁢󠁥󠁮󠁧󠁿 zum Deutschen muss ich unbedingt vertiefen. 
+Außerdem mag ich Klettern, Wandern & Paddeln und bin gerne auf Bäume & Natur unterwegs. Ich teile mein Wissen gern mit der Gemeinschaft. ***Weiter Unten findest du mehr Informationen Über Mich und Meine Projekte***.
 
 ## Über Mich
 
-- 🌱 Ich erlerne gerade eine neue Programmiersprache und Entdecke verschiedene Entwicklungsumgebungen.
-- 👯 Ich möchte Programmiersprachen wie  Python, JavaScript und Webentwicklung erlernen. Innovative Idees und Opensource Projekte interressieren mich.
-- 🤔 Ich suche Hilfe beim erstellen der Github und Raspberry Pi Dokumentation.
-- 💬 Frage mich wenn du etwas über das Klettern Lernen willst.
-- 📫 Wie kannst du mich erreichen: [flo.botrich@example.com](mailto:flo.botrich@example.com)
-- ⚡ Witzige Fakten: Ich das Wandern-/ & Klettern auf Wald und Wiesen Fotografiere gerne und bin Leidenschaftlicher Baum & industriekletterer.
+- 🌱 _***Ich erlerne gerade*** eine neue Programmiersprachen und Entdecke verschiedene Entwicklungsumgebungen_.
+- 👯 _***Ich möchte Programmiersprachen*** wie  Python, JavaScript und Webentwicklung erlernen. Innovative Ideen und Opensource Projekte interressieren mich auch._
+- 🤔 _***Ich suche Hilfe*** beim erstellen der Github und Raspberry Pi Dokumentation (***+ Übersetzung en_EN->de_DE***)._
+- 💬 _***Frage mich*** wenn du etwas über ***Knoten oder das Klettern*** Lernen willst._
+- 📫 _***Wie kannst du mich erreichen:*** [flinkSTuta](mailto:flinks@tutamail.com)_
+- ⚡ _***Witzige Fakten:*** Ich  liebe das ***Wandern-/ & Klettern*** auf Wald, Wiesen & ***Bäumen***, ***Fotografiere*** gerne und bin ***Leidenschaftlicher Baum- & Industriekletterer***._
 
-## Tech Stack
+## Technisches Knowhow
 
 Hier findest du einige Technologien mit denen ich Arbeite:
 
-- **Sprachen**: Markdown, HTML, CSS, Python, JavaScript
-- **Entwicklungsumgebung**: React, Django, Flask
-- **Werkzeuge**: Git, Docker, VS Code
-- **Datenbanken**: MySQL, PostgreSQL
+- **Sprachen**: Markdown, HTML, CSS, Apach2 Python, JavaScript
+- **Entwicklungsumgebung**: Gradle, Maven, ... 
+- **Werkzeuge**: Git, GitHub, Docker, VS Code
+- **Datenbanken**: MariaDB, MySQL, (ferner auch PostgreSQL)
 
 ## Projekte
 
