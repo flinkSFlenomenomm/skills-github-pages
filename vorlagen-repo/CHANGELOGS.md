@@ -8,7 +8,7 @@ YYYY-MM-dd	**Version:** 0.0 <flohercher@protonmail.com>
  * `Beschreibung der Neuerungen des Changelog-Eintrags` 
 ```
 
-2026-05-24   Version 1.0 <florian@raspberrypi>
+2026-05-24 | **Version:** v1.0 <autor@>
 
  * [Changeloghistorie](CHANGELOGS.md) hinzugefügt
 
