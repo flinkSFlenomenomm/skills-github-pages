@@ -4,54 +4,38 @@
 >  
 > Markdown Vorlage Datei [Markdown.md](vorlagen-repo/Markdown.md/)
 
-## This is a second level header
-### This is a third level header
-#### This is a fourth level header
-##### This is a fifth level header
-###### This is a sixth level header
+## Markdownsyntax
+```markdown
+#  Dies ist eine Überschrift erster Ebene.
+## Dies ist eine Überschrift zweiter Ebene.
+### Dies ist eine Überschrift dritter Ebene.
+#### Dies ist eine Überschrift der vierten Ebene.
+##### Dies ist eine Überschrift der fünften Ebene.
+###### Dies ist eine Überschrift der sechsten Ebene.
+Dies ist die nächste Überschrift erster Ebene.
+Optional können Sie schließende Hash-Zeichen hinzufügen.
+Und so weiter,...
+Andere Header-Methode, Ebene 1
+Andere Header-Methode, Ebene 2
+Erstellen Sie ungeordnete Listen wie:
+Rot
+Grün
+Blau
+Erstellen Sie geordnete Listen wie:
+Vogel
+Fisch
+Dinosaurier
+Horizontale Regeln erstellen
+Verwenden Sie eine dieser Methoden:
 
-# This is the next first level header
-## Optionally add closing hashes ##
-## And so on,... ##
+Verwendung von Hyperlinks
+Dies ist ein Beispiel für einen Inline-Link.
 
-Other Header method, level 1
-============================
-Other Header method, level 2
-----------------------------
+Dieser Link hat kein Titelattribut.
 
-# Make unordered lists like:
-
-* Red
-* Green
-* Blue
-
-# Make Ordered lists like:
-
-1. Bird
-2. Fish
-3. Dinosaur
-
-
-# Create Horizontal Rules
-
-Use either one of this methods:
-
-* * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------
-
-# Using hyperlinks
-
-This is [an example](https://example.com/ "Title") inline link.
-
-[This link](https://example.net/) has no title attribute.
-
-# References
+Referenzen
+Weitere [Syntaxdetails](https://daringfireball.net/projects/markdown/syntax "Hovering message") finden Sie hier.
+ [](https://daringfireball.net/projects/markdown/syntax "Hovering message") can be found here.
+```
 
 More [syntax details](https://daringfireball.net/projects/markdown/syntax "Hovering message") can be found here.
