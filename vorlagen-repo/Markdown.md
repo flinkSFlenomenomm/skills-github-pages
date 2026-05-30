@@ -35,7 +35,4 @@ Dieser Link hat kein Titelattribut.
 
 Referenzen
 Weitere [Syntaxdetails](https://daringfireball.net/projects/markdown/syntax "Hovering message") finden Sie hier.
- [](https://daringfireball.net/projects/markdown/syntax "Hovering message") can be found here.
 ```
-
-More [syntax details](https://daringfireball.net/projects/markdown/syntax "Hovering message") can be found here.
