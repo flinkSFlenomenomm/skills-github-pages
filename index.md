@@ -12,7 +12,7 @@
 > *  ***Vorlage Dateien zum Kopieren und Weiter verwenden***
 > *  ***Dokumentationen zur Nutzung von GitHub für Einsteiger***
 > *  ***Meine Lieblings Projekte in Form einer 💯 HITLISTE***
-> *
+> 
 > *  ***Möglichkeiten mit mir in Kontakt zu treten oder mich an der Entwicklung meiner ersten Projekte mit GitHub, durch Anregungen, Kritik oder Entwicklungsarbeit zu Unterstützen.***
 
 - 👷 _***Ich arbeite gerade an*** der Erstellung einer GitHub Skills Startseite für mein Profil_
@@ -53,6 +53,8 @@ Hier findest du einige Technologien mit denen ich Arbeite:
 
 ## Projekte
 
+_***Intrested in Linux,***  Still loving @markor-markdown @gsantner @ParrotSec @procount @xfce @bareboat-necessities @openplotter @signalk @raspberrypi @lxde @mate @kali-linux @debian @keep-android-open @fdroid @oxygenos @zettle-notes @foss @dietpi @kepassxc  @tillix @markdownlint @ffupdater @vosk-api @thumb-key
+
 ### [Projekt 1: Awesome Project](https://github.com/flo-botrich/awesome-project)
 A brief description of what this project does and why it is useful.
 
@@ -62,7 +64,7 @@ A brief description of what this project does and why it is useful.
 ### [Projekt 3: Yet Another Project](https://github.com/flo-botrich/yet-another-project)
 A brief description of what this project does and why it is useful.
 
-## GitHub Stats
+## GitHub Statistiken
 
 ![Flo's GitHub stats](https://github-readme-stats.vercel.app/api?username=flo-botrich&show_icons=true&theme=radical)
 
