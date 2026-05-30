@@ -1,8 +1,24 @@
-# START
+# README
 ---
 title: Willkommen auf meinem Blog!
 ---
 
+> [!NOTE]
+>
+> **Hier findest du Infos über:**
+> * das Projekt: 
+> * den Autor:
+>
+> *  Vorlage Dateien zum Kopieren und Weiter verwenden
+> *  Dokumentationen zur Nutzung von GitHub für Einsteiger
+> *  Meine Lieblings Projekte in Form einer 💯 HITLISTE
+> *
+> *  Möglichkeiten mit mir in Kontakt zu treten oder mich an der Entwicklung meiner ersten Projekte mit GitHub, durch Anregungen, Kritik oder Entwicklungsarbeit zu Unterstützen.
+<!-- .. -->
+## INDEX
+
+***
+<!-- Vorlage Dateien Repo -->
 ## Vorlagenrepo
 
 ## Vorlagedateien 
@@ -25,7 +41,9 @@ title: Willkommen auf meinem Blog!
 * Markdown Schnipsel erstellen
 * ...
 
+<!-- .. -->
 ---
+<!-- .. -->
 
 
 
